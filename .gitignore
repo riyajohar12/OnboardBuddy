@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
+onboard_buddy.log
+workflow_metrics.json
